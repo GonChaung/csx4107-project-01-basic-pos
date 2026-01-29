@@ -1,4 +1,4 @@
-## 👥 Team Members
+## Team Members
 
 | Name  
 | ----------------------
@@ -24,7 +24,7 @@ A modern Point of Sale (POS) system built with React and Vite for managing sales
 
 ![Sales Journal - Product Catalog](./screenshots/sales-journal.png)
 
-## ✨ Features
+## Features
 
 - **Sales Dashboard** - View total sales, daily sales, and transaction counts
 - **Sales Trends** - Visualize sales data over time with charts
@@ -53,7 +53,7 @@ A modern Point of Sale (POS) system built with React and Vite for managing sales
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/GonChaung/csx4107-project-01-basic-pos
 cd csx4107-project-01-basic-pos
 ```
 
