@@ -1,10 +1,10 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Dashboard from "./components/Dashboard";
 import SalesJournal from "./components/SalesJournal";
 
 function App() {
   return (
-    <Router basename="/csx4107-project-01-basic-pos-dev">
+    <Router>
       <div className="app">
         <nav className="navbar">
           <div className="nav-container">
